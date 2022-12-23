@@ -18,6 +18,7 @@
   <tr>
     <th>Nama</th>
     <th>Nim</th>
+    <th>Test</th>
   </tr>
 </thead>
 <tbody>
